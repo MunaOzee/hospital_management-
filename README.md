@@ -17,8 +17,3 @@ A hospital management platform with machine learning integration for patient flo
 - JavaScript
 - Machine Learning
 
-## Screenshots
-(Add screenshots)
-
-## Installation
-(How to run project)# hospital_management-
